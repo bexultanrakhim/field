@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Boids"
+subtitle: "How complext behavior emerges from simple rules"
+date: 2021-03-04 10:45:13 -0500
+background: '/img/posts/boid.jpg'
+---
+
+## Have you ever seen the flocking bids?
+... and wondered "how these birds create such an interesting motions?" Or how do sardina fish with no high intelligence can move in these extremely dynamic and synchronized behavior?
+
+
+<div style="position: center;text-align:center;">
+<img  style="width:1000px" class="img-fluid" src="https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkiIdL-HWY7F9PPlF1CC-fWqaKTM5SRkZCeTgDn6uOyic" alt="flocking birds"/>
+<em >flocking birds </em>
+</div>
